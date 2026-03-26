@@ -1,4 +1,11 @@
-# Hi there 👋
+# Hey everyone, let's connect! 🚀
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/elijah-ortega-8a3347386/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" /></a>
+  <a href="https://www.facebook.com/kyuu420"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40" /></a>
+  <a href="https://www.instagram.com/elijaaaaah04/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" /></a>
+  <a href="mailto:eaortega04@proton.me"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" height="40" /></a>
+</p>
 
 Creative UI/UX Designer dedicated to building immersive, user-centric digital experiences that push the boundaries of the web. 
 
